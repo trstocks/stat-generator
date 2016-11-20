@@ -8,7 +8,7 @@ Player name
 Faction
 Race
 Alignment
-Expoerience Points
+Experience Points
 DCI number
 
 Main stats:

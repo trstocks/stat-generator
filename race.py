@@ -1,0 +1,9 @@
+ #Human
+ #Elf
+ #Half-Elf
+ #Half-Orc
+ #Halfling
+ #Dwarf
+ #Gnome
+ #Dragonborn
+ #Tiefling
