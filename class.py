@@ -73,6 +73,6 @@ You will want to write these down on the bottom left of the character sheet.
 Next you will want to look at the features your class has.
 Each class starts with features at level one and will gain access to more as they level up.
 Write down the character’s level one class features under the features section of
-the character sheet. Also write down your proficiency bonus. 
+the character sheet. Also write down your proficiency bonus.
 You will find it on the class page as well.
 '''
