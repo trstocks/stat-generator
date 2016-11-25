@@ -63,3 +63,16 @@ class dndClass:
 barbarian = dndClass("Barbarian",17)
 barbarian.level_stats()
 print(barbarian.classInfo())
+
+'''
+Now decide the class. You can find the classes on page 45 of the Players Handbook.
+Each class will have a primary stat, hit die, saving throw proficiencies,
+and armor and weapons proficiencies. You can find each of these on the class page.
+You will want to write these down on the bottom left of the character sheet.
+
+Next you will want to look at the features your class has.
+Each class starts with features at level one and will gain access to more as they level up.
+Write down the character’s level one class features under the features section of
+the character sheet. Also write down your proficiency bonus. 
+You will find it on the class page as well.
+'''
