@@ -19,7 +19,7 @@ class Player:
         self.pclass = pclass
         self.prace = prace
         self.owner = owner
-        self.pstats = {'Strength': 0,'Dexterity': 0,'Constitution': 0,'Intelligence': 0,'Wisdom': 0 }
+        self.pstats = {'Strength': 0,'Dexterity': 0,'Constitution': 0,'Intelligence': 0,'Wisdom': 0, "Charisma":0 }
 
 
     def main_stats(self):
@@ -33,7 +33,7 @@ class Player:
 
     def displayPlayer(self):
         print ("Name : ", self.pname,  ", Class: ", self.pclass, ", Race: ", self.prace)
-        return self.pstats
+        print(self.pstats)
 
 
 
@@ -47,6 +47,7 @@ for i in pl1.pstats.items():
         pl1.main_stats()
     else:
         break
+pl1.displayPlayer()
 pl1.displayPlayer()
 with open(pl1.pname+"Character.txt", "w") as text_file:
     text_file.write("Stats - {0}".format(pl1.displayPlayer()))
